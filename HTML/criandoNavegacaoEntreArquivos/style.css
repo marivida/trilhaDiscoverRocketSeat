@@ -1,0 +1,21 @@
+ul {
+  list-style-type: square;
+  font-size: x-large;
+  font-style: bold;
+  animation: infinite;
+  color: deeppink;
+}
+
+a {
+  color: deeppink;
+}
+
+p {
+  background-color: pink;
+  border-radius: 30%;
+  align: center;
+}
+
+h1, h2 {
+  color: rgb(119, 14, 68);
+}
