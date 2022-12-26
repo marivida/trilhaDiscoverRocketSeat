@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap';
+
+h1 {
+  color: pink;
+  font-family: 'Rubik Gemstones', cursive;
+  font-size: 100px;
+}
+
+strong {
+  color: deeppink;
+}
